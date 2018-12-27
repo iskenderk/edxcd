@@ -5,7 +5,6 @@ C:\Users\108005255\Projects\VS 2017\EDX\AzureAppServiceConfiguration\edxcd\cweb\
 C:\Users\108005255\Projects\VS 2017\EDX\AzureAppServiceConfiguration\edxcd\cweb\bin\Debug\netcoreapp2.2\cweb.pdb
 C:\Users\108005255\Projects\VS 2017\EDX\AzureAppServiceConfiguration\edxcd\cweb\bin\Debug\netcoreapp2.2\cweb.Views.dll
 C:\Users\108005255\Projects\VS 2017\EDX\AzureAppServiceConfiguration\edxcd\cweb\bin\Debug\netcoreapp2.2\cweb.Views.pdb
-C:\Users\108005255\Projects\VS 2017\EDX\AzureAppServiceConfiguration\edxcd\cweb\obj\Debug\netcoreapp2.2\cweb.csprojAssemblyReference.cache
 C:\Users\108005255\Projects\VS 2017\EDX\AzureAppServiceConfiguration\edxcd\cweb\obj\Debug\netcoreapp2.2\cweb.csproj.CoreCompileInputs.cache
 C:\Users\108005255\Projects\VS 2017\EDX\AzureAppServiceConfiguration\edxcd\cweb\obj\Debug\netcoreapp2.2\cweb.RazorAssemblyInfo.cache
 C:\Users\108005255\Projects\VS 2017\EDX\AzureAppServiceConfiguration\edxcd\cweb\obj\Debug\netcoreapp2.2\cweb.RazorAssemblyInfo.cs
@@ -28,3 +27,4 @@ C:\Users\108005255\Projects\VS 2017\EDX\AzureAppServiceConfiguration\edxcd\cweb\
 C:\Users\108005255\Projects\VS 2017\EDX\AzureAppServiceConfiguration\edxcd\cweb\obj\Debug\netcoreapp2.2\cweb.dll
 C:\Users\108005255\Projects\VS 2017\EDX\AzureAppServiceConfiguration\edxcd\cweb\obj\Debug\netcoreapp2.2\cweb.pdb
 C:\Users\108005255\Projects\VS 2017\EDX\AzureAppServiceConfiguration\edxcd\cweb\obj\Debug\netcoreapp2.2\cweb.csproj.CopyComplete
+C:\Users\108005255\Projects\VS 2017\EDX\AzureAppServiceConfiguration\edxcd\cweb\obj\Debug\netcoreapp2.2\cweb.csprojAssemblyReference.cache
